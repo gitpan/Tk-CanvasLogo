@@ -6,7 +6,7 @@ use strict;
 use warnings;
 
 use vars qw($VERSION);
-$VERSION = '0.1'; 
+$VERSION = '0.2'; 
 
 use Tk qw (Ev);
 use AutoLoader;
